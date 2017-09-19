@@ -14,4 +14,4 @@ Unicorns have the following functions:
 * breakdance
 * eatCronut
 
-Open up the index.html file provided with this README and then take a look at the func-index.js file.  As a table, take the functions provided in func-index.js and convert them to an object-oriented alternative in the oo-index.js file.  When complete, in your html file, switch from func-index.js to oo-index.js in the script tags to see if you were successful in your task.
+Choose one person to clone down this repo and then open up the index.html file provided. Take a look at the func-index.js file and discuss how it works.  As a table, take the functions provided in func-index.js and convert them to an object-oriented alternative in the oo-index.js file.  When complete, in your html file, switch from func-index.js to oo-index.js in the script tags to see if you were successful in your task.
