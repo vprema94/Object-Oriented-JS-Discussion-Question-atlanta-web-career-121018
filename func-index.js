@@ -4,21 +4,21 @@ function newUnicorn(name,occupation) {
 }
 
 function attack() {
-  "'ATTAAAAAACK!''"
+  return "'ATTAAAAAACK!''"
 }
 
 function defend() {
-  "You put sunglasses on."
+  return "You put sunglasses on."
 }
 
 function heal() {
-  "You feel refreshed after yoga."
+  return "You feel refreshed after yoga."
 }
 
 function breakdance() {
-  "It's really spinning class"
+  return "It's really spinning class"
 }
 
 function eatCronut() {
-  "You've gained 1000 health points."
+  return "You've gained 1000 health points."
 }
